@@ -85,12 +85,6 @@ value="org.apache.cordova.device.Device"
 
 <preference name="AndroidLaunchMode" value="singleTop"/>
 
-<!--BlackBerry 10 Preferences-->
-
-<preference name="ChildBrowser" value="disable"/> 
-<preference name="PopupBlocker" value="enable""/>
-<preference name="WebSecurity" value="disable"/>
-
 
 <icon src="res/ios/icon.png" platform="ios" width="57" height="57" density="mdpi"> </icon>
 
